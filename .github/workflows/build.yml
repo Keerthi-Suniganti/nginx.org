@@ -15,7 +15,7 @@ on:
         default: staging
 
 permissions:
-  contents: read
+  contents: 
   id-token: write
 
 
